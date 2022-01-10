@@ -1,4 +1,4 @@
-# Introduction to Probability and Statistics - Spring 2021
+# Introduction to Probability and Statistics - Spring 2022
 
 ### BMI 6106
 
